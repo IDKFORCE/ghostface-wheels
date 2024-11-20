@@ -1,8 +1,9 @@
-
 fx_version 'cerulean'
 game 'gta5'
 
-author '⸸♱♥IDK_FORCE♥♱⸸#7611'
+author 'GhostFaceScripts'
+description 'GhostFace Wheels'
+version '1.0.0'
 
 files {
     'data/**',
